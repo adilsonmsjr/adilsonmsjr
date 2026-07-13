@@ -66,7 +66,7 @@ Aplicação composta por microsserviços responsáveis pelo cadastro e autentica
 - Bean Validation
 
 🔗 Repositório:
-[> (https://github.com/adilsonmsjr/auth-notification-platform)]
+(https://github.com/adilsonmsjr/auth-notification-platform)
 
 ---
 
@@ -86,7 +86,7 @@ API REST para encurtamento de URLs com cache inteligente, controle de expiraçã
 - Testes unitários
 
 🔗 Repositório:
-> ([adicione aqui o link](https://github.com/adilsonmsjr/short-url-api))
+(https://github.com/adilsonmsjr/short-url-api)
 
 ---
 
