@@ -1,120 +1,37 @@
-# Olá! Eu sou Adilson Junior
+# Olá! 👋
 
-Desenvolvedor Backend Java em transição de carreira, com experiência anterior em gestão de projetos e implantação de sistemas corporativos. Atualmente concentro meus estudos no desenvolvimento de aplicações backend utilizando Java, Spring Boot e boas práticas de engenharia de software.
+Sou **Adilson Junior**, desenvolvedor Backend Java em transição de carreira. Atualmente concentro meus estudos no desenvolvimento de APIs REST e microsserviços utilizando Java e Spring Boot.
 
----
+## 🚀 Tecnologias
 
-## Tecnologias
-
-### Backend
 - Java
 - Spring Boot
 - Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JWT
-- Bean Validation
-- Maven
-
-### Microsserviços
 - RabbitMQ
-- Comunicação Assíncrona
-- Arquitetura baseada em Eventos
-
-### Banco de Dados
 - PostgreSQL
-- MySQL
-- MongoDB
-
-### DevOps
 - Docker
-- Docker Compose
 - Git
-- GitHub
-
-### Testes
-- JUnit 5
+- JUnit
 - Mockito
+- React (conhecimentos)
 
-### Frontend (Conhecimentos)
-- React
-- JavaScript
-- HTML
-- CSS
+## 📌 Projetos
 
----
+### 🔐 Sistema de Autenticação com Microsserviços
+Aplicação utilizando Spring Security, JWT, RabbitMQ, PostgreSQL e Docker para autenticação e envio de notificações.
 
-# Projetos em Destaque
+### 🔗 Short URL API
+API REST para encurtamento de URLs utilizando Spring Boot, PostgreSQL, Caffeine Cache e Swagger.
 
-## Sistema de Autenticação com Microsserviços
+## 📚 Atualmente estudando
 
-Aplicação composta por microsserviços responsáveis pelo cadastro e autenticação de usuários utilizando Spring Security e JWT, comunicação assíncrona com RabbitMQ e persistência em PostgreSQL.
-
-### Principais funcionalidades
-
-- Cadastro de usuários
-- Login com JWT
-- Spring Security
-- Comunicação via RabbitMQ
-- Worker para envio de notificações
-- Docker Compose
-- PostgreSQL
-- Flyway
-- Swagger/OpenAPI
-- Tratamento global de exceções
-- Bean Validation
-
-🔗 Repositório:
-(https://github.com/adilsonmsjr/auth-notification-platform)
-
----
-
-## Short URL API
-
-API REST para encurtamento de URLs com cache inteligente, controle de expiração e documentação completa.
-
-### Principais funcionalidades
-
-- Geração de URLs curtas
-- Contagem de acessos
-- Cache utilizando Caffeine
-- Expiração automática (TTL)
-- PostgreSQL
-- Docker
-- Swagger/OpenAPI
-- Testes unitários
-
-🔗 Repositório:
-(https://github.com/adilsonmsjr/short-url-api)
-
----
-
-## Atualmente estudando
-
-- Arquitetura de Microsserviços
+- Microsserviços
 - System Design
 - Redis
-- Observabilidade (Prometheus e Grafana)
 - AWS
-- Testcontainers
-- CI/CD
-- Clean Architecture
+- Observabilidade
 
----
+## 📫 Contato
 
-## Objetivo
-
-Atuar como Desenvolvedor Java Backend, contribuindo no desenvolvimento de aplicações escaláveis, seguras e de alta qualidade, enquanto continuo evoluindo em arquitetura de software, microsserviços e computação em nuvem.
-
----
-
-## Contato
-
-📧 Email: dilsjr@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/adilson-jr-15990420a
-
-💻 GitHub:
-https://github.com/adilsonmsjr
+- 💼 LinkedIn: https://linkedin.com/in/adilson-jr-15990420a
+- 📧 Email: dilsjr@gmail.com
