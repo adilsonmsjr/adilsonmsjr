@@ -1,37 +1,19 @@
-# Olá! 👋
+# Olá, eu sou Adilson Jr. 👋
 
-Sou **Adilson Junior**, desenvolvedor Backend Java em transição de carreira. Atualmente concentro meus estudos no desenvolvimento de APIs REST e microsserviços utilizando Java e Spring Boot.
+💻 Desenvolvedor Backend Java
 
-## 🚀 Tecnologias
+Desenvolvedor Backend Java em transição de carreira, com experiência anterior em gestão de projetos e implantação de sistemas corporativos. Atualmente desenvolvo aplicações utilizando Java e Spring Boot, com foco em APIs REST, microsserviços e boas práticas de engenharia de software.
 
-- Java
-- Spring Boot
-- Spring Security
-- RabbitMQ
-- PostgreSQL
-- Docker
-- Git
-- JUnit
-- Mockito
-- React (conhecimentos)
+## 🚀 Tech Stack
 
-## 📌 Projetos
-
-### 🔐 Sistema de Autenticação com Microsserviços
-Aplicação utilizando Spring Security, JWT, RabbitMQ, PostgreSQL e Docker para autenticação e envio de notificações.
-
-### 🔗 Short URL API
-API REST para encurtamento de URLs utilizando Spring Boot, PostgreSQL, Caffeine Cache e Swagger.
+Java • Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • JWT • RabbitMQ • PostgreSQL • MySQL • Docker • Docker Compose • Flyway • Maven • JUnit 5 • Mockito • Git • React
 
 ## 📚 Atualmente estudando
 
-- Microsserviços
-- System Design
-- Redis
-- AWS
-- Observabilidade
+Redis • AWS • Observabilidade • System Design • Testcontainers • CI/CD
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/adilson-jr-15990420a
-- 📧 Email: dilsjr@gmail.com
+📧 dilsjr@gmail.com
+
+💼 linkedin.com/in/adilson-jr-15990420a
