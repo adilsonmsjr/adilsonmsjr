@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Adilson Junior
+# Olá! Eu sou Adilson Junior
 
 Desenvolvedor Backend Java em transição de carreira, com experiência anterior em gestão de projetos e implantação de sistemas corporativos. Atualmente concentro meus estudos no desenvolvimento de aplicações backend utilizando Java, Spring Boot e boas práticas de engenharia de software.
 
@@ -66,7 +66,7 @@ Aplicação composta por microsserviços responsáveis pelo cadastro e autentica
 - Bean Validation
 
 🔗 Repositório:
-[> (adicione aqui o link quando publicar)](https://github.com/adilsonmsjr/auth-notification-platform)
+[> (https://github.com/adilsonmsjr/auth-notification-platform)]
 
 ---
 
