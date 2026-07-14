@@ -1,4 +1,4 @@
-# Olá, eu sou Adilson Jr. 👋
+# Adilson Jr.
 
 Desenvolvedor Backend Java em transição de carreira, com experiência anterior em gestão de projetos e implantação de sistemas corporativos. Atualmente desenvolvo aplicações utilizando Java e Spring Boot, com foco em APIs REST, microsserviços e boas práticas de engenharia de software.
 
